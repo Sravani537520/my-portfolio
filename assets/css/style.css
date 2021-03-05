@@ -893,7 +893,7 @@ section {
   /* float: left; */
   margin-top: 31px;
   margin-right: 51px;
-  margin-left: -582px;
+  margin-left: -708px;
 }
 .hoverline1 {
   color: #009688;
@@ -960,4 +960,9 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+img{
+  border-radius:50%;
+  
 }
